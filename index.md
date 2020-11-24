@@ -1,4 +1,4 @@
-# Personverninfo
+## Personverninfo
 
 PPL-teori samler ikke inn noen personlig informasjon, har ingen reklame, og heller ingen sporing eller annen form for datainnhøsting. Alle data er lagret lokalt på din enhet, og blir aldri sendt noe sted.
 
