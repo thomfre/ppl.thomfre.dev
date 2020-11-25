@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url("/assets/images/appicon.png");
+  background-image: url("/assets/images/icon_icon.png");
   background-position: center;
-  background-color: "#53DDE4";
+  background-color: #53dde4;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
