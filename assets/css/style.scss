@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header-index {
+  padding-top: 0;
+}
+
+.page-header-index img {
+  width: 15rem;
+}
