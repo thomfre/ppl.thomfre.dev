@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: PPL-teori
 description: PPL-teori er et verktøy ment for øving til PPL-eksamen
 ---
