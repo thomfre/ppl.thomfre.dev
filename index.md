@@ -8,6 +8,8 @@ Merk at spørsmålene er laget av andre PPL-elever, basert på pensum. Oppgavene
 
 Har du lyst til å bidra med spørsmål? Eller har du funnet feil i et spørsmål? Ta kontakt på adressen du finner i appen eller opprett en [issue på GitHub](https://github.com/thomfre/ppl.thomfre.dev/issues).
 
+[![](/assets/images/google_play.png)](https://play.google.com/store/apps/details?id=dev.thomfre.ppl)
+
 ## Personverninfo
 
 PPL-teori samler ikke inn noen personlig informasjon, har ingen reklame, og heller ingen sporing eller annen form for datainnhøsting. Alle data er lagret lokalt på din enhet, og blir aldri sendt noe sted.
